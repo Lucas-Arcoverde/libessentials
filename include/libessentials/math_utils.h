@@ -22,5 +22,10 @@ long ess_sub_long(long first_number, long second_number);
 long ess_mul_long(long first_number, long second_number);
 long ess_div_long(long first_number, long second_number);
 
+float ess_sum_float(float first_number, float second_number);
+float ess_sub_float(float first_number, float second_number);
+float ess_mul_float(float first_number, float second_number);
+float ess_div_float(float first_number, float second_number);
+
 #endif //MATH_UTILS_H
 
