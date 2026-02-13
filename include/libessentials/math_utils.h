@@ -17,5 +17,10 @@ int ess_sub_int(int first_number, int second_number);
 int ess_mul_int(int first_number, int second_number);
 int ess_div_int(int first_number, int second_number);
 
+long ess_sum_long(long first_number, long second_number);
+long ess_sub_long(long first_number, long second_number);
+long ess_mul_long(long first_number, long second_number);
+long ess_div_long(long first_number, long second_number);
+
 #endif //MATH_UTILS_H
 
